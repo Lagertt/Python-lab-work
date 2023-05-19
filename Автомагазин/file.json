@@ -1,0 +1,261 @@
+{
+    "workers": [
+        {
+            "name": "Ишеев Мефодий Юриевич",
+            "sold cars": [
+                {
+                    "name": "Mercedes GLB",
+                    "price": 3.8
+                },
+                {
+                    "name": "Mercedes EQC",
+                    "price": 7.3
+                }
+            ],
+            "sold parts": [
+                {
+                    "name": "диски",
+                    "price": 15
+                },
+                {
+                    "name": "свечи",
+                    "price": 2
+                },
+                {
+                    "name": "амортизаторы",
+                    "price": 8
+                },
+                {
+                    "name": "свечи",
+                    "price": 2
+                },
+                {
+                    "name": "диски",
+                    "price": 15
+                }
+            ]
+        },
+        {
+            "name": "Ахметов Платон Леонтиевич",
+            "sold cars": [
+                {
+                    "name": "Mercedes E-class convertible",
+                    "price": 6.9
+                }
+            ],
+            "sold parts": [
+                {
+                    "name": "диски",
+                    "price": 15
+                }
+            ]
+        },
+        {
+            "name": "Талалихина Зоя Данииловна",
+            "sold cars": [
+                {
+                    "name": "Mercedes G-class",
+                    "price": 13.7
+                },
+                {
+                    "name": "Mercedes A-class sedan",
+                    "price": 2.8
+                },
+                {
+                    "name": "Mercedes S-class coupe",
+                    "price": 9.2
+                },
+                {
+                    "name": "Mercedes S-class coupe",
+                    "price": 9.2
+                },
+                {
+                    "name": "Mercedes EQC",
+                    "price": 7.3
+                },
+                {
+                    "name": "Mercedes GLE coupe",
+                    "price": 8.7
+                },
+                {
+                    "name": "Mercedes GLE coupe",
+                    "price": 8.7
+                },
+                {
+                    "name": "Mercedes GLE coupe",
+                    "price": 8.7
+                }
+            ],
+            "sold parts": [
+                {
+                    "name": "зимняя резина",
+                    "price": 15
+                },
+                {
+                    "name": "зимняя резина",
+                    "price": 15
+                },
+                {
+                    "name": "тормозные колодки",
+                    "price": 10
+                },
+                {
+                    "name": "летняя резина",
+                    "price": 12
+                },
+                {
+                    "name": "двигатель",
+                    "price": 300
+                },
+                {
+                    "name": "диски",
+                    "price": 15
+                },
+                {
+                    "name": "зимняя резина",
+                    "price": 15
+                },
+                {
+                    "name": "летняя резина",
+                    "price": 12
+                },
+                {
+                    "name": "диски",
+                    "price": 15
+                },
+                {
+                    "name": "зимняя резина",
+                    "price": 15
+                }
+            ]
+        },
+        {
+            "name": "Аверин Агафон Никифорович",
+            "sold cars": [
+                {
+                    "name": "Mercedes S-class coupe",
+                    "price": 9.2
+                },
+                {
+                    "name": "Mercedes GLB",
+                    "price": 3.8
+                },
+                {
+                    "name": "Mercedes E-class convertible",
+                    "price": 6.9
+                },
+                {
+                    "name": "Mercedes GLE coupe",
+                    "price": 8.7
+                },
+                {
+                    "name": "Mercedes GLE coupe",
+                    "price": 8.7
+                },
+                {
+                    "name": "Mercedes GLB",
+                    "price": 3.8
+                },
+                {
+                    "name": "Mercedes S-class coupe",
+                    "price": 9.2
+                }
+            ],
+            "sold parts": [
+                {
+                    "name": "двигатель",
+                    "price": 300
+                },
+                {
+                    "name": "диски",
+                    "price": 15
+                },
+                {
+                    "name": "амортизаторы",
+                    "price": 8
+                },
+                {
+                    "name": "диски",
+                    "price": 15
+                },
+                {
+                    "name": "зимняя резина",
+                    "price": 15
+                },
+                {
+                    "name": "тормозные колодки",
+                    "price": 10
+                },
+                {
+                    "name": "свечи",
+                    "price": 2
+                }
+            ]
+        },
+        {
+            "name": "Шелепина Ефросиния Юлиевна",
+            "sold cars": [
+                {
+                    "name": "Mercedes GLB",
+                    "price": 3.8
+                }
+            ],
+            "sold parts": []
+        },
+        {
+            "name": "Соколова Роза Федотовна",
+            "sold cars": [
+                {
+                    "name": "Mercedes EQC",
+                    "price": 7.3
+                },
+                {
+                    "name": "Mercedes GLS Maybach",
+                    "price": 16.4
+                },
+                {
+                    "name": "Mercedes S-class coupe",
+                    "price": 9.2
+                }
+            ],
+            "sold parts": [
+                {
+                    "name": "воздушный фильтр",
+                    "price": 3
+                },
+                {
+                    "name": "летняя резина",
+                    "price": 12
+                },
+                {
+                    "name": "тормозные колодки",
+                    "price": 10
+                },
+                {
+                    "name": "амортизаторы",
+                    "price": 8
+                },
+                {
+                    "name": "воздушный фильтр",
+                    "price": 3
+                },
+                {
+                    "name": "двигатель",
+                    "price": 300
+                },
+                {
+                    "name": "зимняя резина",
+                    "price": 15
+                },
+                {
+                    "name": "летняя резина",
+                    "price": 12
+                },
+                {
+                    "name": "воздушный фильтр",
+                    "price": 3
+                }
+            ]
+        }
+    ]
+}
